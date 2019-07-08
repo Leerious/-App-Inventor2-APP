@@ -1,0 +1,1 @@
+.aia是App Inventor2的项目文件，在App Inventor2中导入即可
