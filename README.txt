@@ -1,1 +1,1 @@
-.aia��App Inventor2����Ŀ�ļ�����App Inventor2�е��뼴��
+.aia是App Inventor2的项目文件，在App Inventor2中导入即可，本次蓝牙App是用于我的温湿度测控报警系统的，实际应用的普适性不高，但是其中的代码可以作为参考，对于一些刚接触App Inventor2的朋友来说有一定的作用。
